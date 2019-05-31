@@ -18,3 +18,5 @@ Once you've installed jupyter, you should be able to invoke
 A new browser window should open in which you can explore the notebook. You're be encouraged to write
 and execute your code right in the browser. You can also make changes to the notebook in case you have
 ideas on how to improve this tutorial.
+
+You can also ask mybinder to host it for you to avoid the install step. https://mybinder.org
